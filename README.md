@@ -1,7 +1,6 @@
 # :pushpin: Tumblbug JSP Project
 
-> 크라우드 펀딩 사이트 '텀블벅' - DispatcherServlet을 활용한  jsp를 활용한(Servlet을 직접 한땀한땀 구현한...) 모델 2방식(MVC) 웹사이트 구현
-> https://go-quality.dev  
+> 크라우드 펀딩 사이트 '텀블벅' - DispatcherServlet을 직접 제작한 모델 2방식(MVC) 웹사이트 구현
 
 </br>
 
