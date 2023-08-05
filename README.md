@@ -104,12 +104,12 @@
 <summary><b> 개체 및 속성 정리</b></summary>
 <div markdown="1">
 
-<img width="344" alt="1" src="https://github.com/Vida0822/Tumblbug_JSP_Project/assets/132312673/a67cb148-a8a1-40f8-8c57-438b61c836f8">
-<img width="347" alt="2" src="https://github.com/Vida0822/Tumblbug_JSP_Project/assets/132312673/9f8e341e-0059-4f7a-942c-a23bd40c8b98">
-<img width="344" alt="3" src="https://github.com/Vida0822/Tumblbug_JSP_Project/assets/132312673/7a3dfb94-b371-4fe0-8de2-1de715918fce">
-<img width="347" alt="4" src="https://github.com/Vida0822/Tumblbug_JSP_Project/assets/132312673/ac4d35b0-24b6-4550-9795-f85a2f891774">
-<img width="344" alt="5" src="https://github.com/Vida0822/Tumblbug_JSP_Project/assets/132312673/2b88923c-fbef-49e9-8914-f2acfe003de8">
-<img width="345" alt="6" src="https://github.com/Vida0822/Tumblbug_JSP_Project/assets/132312673/07bffd01-1d39-41c3-ab5b-cdd1843de0cc">
+<img width="625" alt="1" src="https://github.com/Vida0822/Tumblbug_JSP_Project/assets/132312673/a67cb148-a8a1-40f8-8c57-438b61c836f8">
+<img width="625" alt="2" src="https://github.com/Vida0822/Tumblbug_JSP_Project/assets/132312673/9f8e341e-0059-4f7a-942c-a23bd40c8b98">
+<img width="625" alt="3" src="https://github.com/Vida0822/Tumblbug_JSP_Project/assets/132312673/7a3dfb94-b371-4fe0-8de2-1de715918fce">
+<img width="625" alt="4" src="https://github.com/Vida0822/Tumblbug_JSP_Project/assets/132312673/ac4d35b0-24b6-4550-9795-f85a2f891774">
+<img width="625" alt="5" src="https://github.com/Vida0822/Tumblbug_JSP_Project/assets/132312673/2b88923c-fbef-49e9-8914-f2acfe003de8">
+<img width="625" alt="6" src="https://github.com/Vida0822/Tumblbug_JSP_Project/assets/132312673/07bffd01-1d39-41c3-ab5b-cdd1843de0cc">
 
 
 </div>
