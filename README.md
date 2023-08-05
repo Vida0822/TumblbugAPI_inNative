@@ -85,7 +85,7 @@
 
 
 ## 5. DB 모델링 :  ERD / EXERD 설계
-
+![erd](https://github.com/Vida0822/Tumblbug_JSP_Project/assets/132312673/14500790-be8d-4112-8344-a597e2be1d8f)
 
 
 
@@ -94,14 +94,8 @@
 
 ## 6. 프로젝트 흐름
 
-### `구조 : 모델2 방식(MVC 패턴)  `
-
-
-
-
-
-
-
+### 구조 : 모델2 방식(MVC 패턴)  
+![전체흐름](https://github.com/Vida0822/Tumblbug_JSP_Project/assets/132312673/dc7100a7-ee6f-4ec3-9c8e-06e63b295c60)
 
 
 
