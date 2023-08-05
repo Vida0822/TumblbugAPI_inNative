@@ -80,7 +80,7 @@
 
 ## 4. 요구분석 : User - Diagram 설계 
 
-![use-diagram drawio](https://github.com/Vida0822/Tumblbug_JSP_Project/assets/132312673/92c44c86-756a-4faa-b539-6ed47e6300a9)
+![use-diagram drawio](https://github.com/Vida0822/Tumblbug_JSP_Project/assets/132312673/ac4f8f32-d952-45da-ab38-4c13bdf0da96)
 
 </br></br>
 
