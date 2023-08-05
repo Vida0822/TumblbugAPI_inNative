@@ -87,7 +87,7 @@
 ## 5. DB 모델링 :  ERD / EXERD 설계
 ![erd](https://github.com/Vida0822/Tumblbug_JSP_Project/assets/132312673/14500790-be8d-4112-8344-a597e2be1d8f)
 
-
+</br></br>
 
 
 
@@ -98,6 +98,7 @@
 ![전체흐름](https://github.com/Vida0822/Tumblbug_JSP_Project/assets/132312673/dc7100a7-ee6f-4ec3-9c8e-06e63b295c60)
 
 
+</br>
 
 
 <details>
@@ -106,7 +107,8 @@
 
 
 ### 6.1. View
-
+![jsp](https://github.com/Vida0822/Tumblbug_JSP_Project/assets/132312673/107ca051-3928-4e89-b5ca-c46553f4a11d)
+</br>
 * 의외로 가장 시간이 많이 들고 어렵게 구현
   * 페이지 설계(html 태그)를 공개하지 않아 개발자 도구에 출력되는 태그들을 화면 캡쳐하듯이 가져옴. 
   * 스타일(css) 태그도 의도적으로 알아보기 힘들게 작성되어있어 개발자 도구로 각 태그별 적용된 스타일을 하나씩 클래스명으로 매치시켜가면서 작성
@@ -131,6 +133,8 @@
 
 ### 6.2. DispatcherServlet
 
+![Servlet](https://github.com/Vida0822/Tumblbug_JSP_Project/assets/132312673/614a1ae5-c864-4bc5-bb28-9c2d2cb913db)
+</br>
 ​	모든 요청에 대해 들어가기 전 수행해야할 공통작업, 필수작업을  수행하는 frontController로서 전달받은 요청 url에 따라 업무를 수행할 핸들러를 호출하는 Mapping 기능을 담당했다.  
 
 * 서블릿 등록 
@@ -201,6 +205,7 @@
      
 
 ### 6.3. Handler
+![Handler](https://github.com/Vida0822/Tumblbug_JSP_Project/assets/132312673/ca6bbd0a-876d-4626-8747-4990d880b28a)
 
 ​	매핑으로 전달받은 요청과 응답 객체를 직접 다루며 모델과 뷰를 제어한다. 사용자의 요청을 받아서 분석하고 비즈니스 로직을 처리하는 Model을 호출한다. 모델이 결과값을 반환하면 출력할 뷰(jsp 페이지)를 선택한 후 전달한다. 
 
@@ -239,6 +244,8 @@
   
 
 ### 6.4. Model(Service & DAO)
+![Service](https://github.com/Vida0822/Tumblbug_JSP_Project/assets/132312673/8d90a9de-ba7a-45bf-8497-27c42ea62091)
+</br>
 
 ​	업무 처리 로직(비즈니스 로직) 혹은 데이터 베이스와 관련된 작업을 담당한다 
 
