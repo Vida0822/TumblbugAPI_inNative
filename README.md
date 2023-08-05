@@ -84,10 +84,32 @@
 
 </br></br>
 
+
+
+
+
+
+
 ## 5. DB 모델링 :  ERD / EXERD 설계
+
 ![erd](https://github.com/Vida0822/Tumblbug_JSP_Project/assets/132312673/14500790-be8d-4112-8344-a597e2be1d8f)
 
 </br></br>
+
+
+
+
+
+<details>
+<summary><b> 개체 및 속성 정리</b></summary>
+<div markdown="1">
+
+
+
+</div>
+</details> 
+    
+</br>
 
 
 
