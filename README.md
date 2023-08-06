@@ -36,20 +36,16 @@
 
 #### `Back-end`
 
-  - Java 8
-  - Spring Framework 2.3
-  - Gradle
-  - Spring Data JPA
-  - QueryDSL
-  - H2
-  - MySQL 5.7
-  - Spring Security
-  - Jsoup
+  - Java 11
+  - Oracle
+  - Tomcat
 
 #### `Front-end`
 
-  - Vue.js 3.0
-  - Element UI
+  - html / css
+  - java script
+  - jquery
+  - jsp
 
 </br>
 
