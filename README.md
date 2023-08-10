@@ -341,7 +341,9 @@
 
 #### 7.6. 프로젝트 올리기  - <a href="https://github.com/Vida0822/Tumblbug_JSP_Project/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%98%AC%EB%A6%AC%EA%B8%B0)" >상세보기 - WIKI 이동</a> 
 
-- 글 작성, 읽기, 수정, 삭제(CRUD)
+- 카테고리 선택
+- 설명 작성
+- 동작에 따른 display 속성 변경  
 
 
 
