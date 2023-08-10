@@ -311,30 +311,30 @@
 - 비밀번호 일치 조회
 - 로그아웃 
 
-#### 7.2. 회원 정보 관리 - <a href="https://github.com/Vida0822/Tumblbug_JSP_Project/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Member)" >상세보기 - WIKI 이동</a>
+#### 7.3. 회원 정보 관리 - <a href="https://github.com/Vida0822/Tumblbug_JSP_Project/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Member)" >상세보기 - WIKI 이동</a>
 
 - 프로필 편집 : 프로필 편집, 계정정보 편집, 알림설정 변경
 - 편집창 띄우기 
 - 사진 업로드
 
-#### 7.3. 메인 페이지 - <a href="https://github.com/Vida0822/Tumblbug_JSP_Project/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%A9%94%EC%9D%B8-Page)" >상세보기 - WIKI 이동</a>
+#### 7.4. 메인 페이지 - <a href="https://github.com/Vida0822/Tumblbug_JSP_Project/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%A9%94%EC%9D%B8-Page)" >상세보기 - WIKI 이동</a>
 
 - 프로젝트 목록보기
 - 카테고리 상단바
 
-#### 7.4. 검색 페이지 - <a href="https://github.com/Vida0822/Tumblbug_JSP_Project/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%A9%94%EC%9D%B8-Page)" >상세보기 - WIKI 이동</a>
+#### 7.5. 검색 페이지 - <a href="https://github.com/Vida0822/Tumblbug_JSP_Project/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%A9%94%EC%9D%B8-Page)" >상세보기 - WIKI 이동</a>
 
 - 프로젝트 검색하기
 - 달성률 퍼센트 바 
 
-#### 7.4. 상세 페이지 - <a href="https://github.com/Vida0822/Tumblbug_JSP_Project/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%83%81%EC%84%B8-Page)" >상세보기 - WIKI 이동</a>
+#### 7.6. 상세 페이지 - <a href="https://github.com/Vida0822/Tumblbug_JSP_Project/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%83%81%EC%84%B8-Page)" >상세보기 - WIKI 이동</a>
 
 - 프로젝트 상세보기 
 - 대표 이미지 슬라이드  
 - 네비게이션 바 
 - 선물 선택
 
-#### 7.5. 후원하기 - <a href="https://github.com/Vida0822/Tumblbug_JSP_Project/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%ED%9B%84%EC%9B%90%ED%95%98%EA%B8%B0)" >상세보기 - WIKI 이동</a>
+#### 7.7. 후원하기 - <a href="https://github.com/Vida0822/Tumblbug_JSP_Project/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%ED%9B%84%EC%9B%90%ED%95%98%EA%B8%B0)" >상세보기 - WIKI 이동</a>
 
 - 후원 정보 조회
 - 결제수단 선택
@@ -342,7 +342,7 @@
 - 유의사항 확인
 - 결제하기
 
-#### 7.6. 프로젝트 올리기  - <a href="https://github.com/Vida0822/Tumblbug_JSP_Project/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%98%AC%EB%A6%AC%EA%B8%B0)" >상세보기 - WIKI 이동</a> 
+#### 7.8. 프로젝트 올리기  - <a href="https://github.com/Vida0822/Tumblbug_JSP_Project/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%98%AC%EB%A6%AC%EA%B8%B0)" >상세보기 - WIKI 이동</a> 
 
 - 카테고리 목록출력
 - 프로젝트 올리기
@@ -357,12 +357,8 @@
 
 </br>
 
-## 8. 핵심 트러블 슈팅 (프젝 올리기 스크립트 쪽 여기에)
-
-(기입 예정) 
 
 
-
-## 9. 회고 / 느낀점
+## 8. 회고 / 느낀점
 
 (기입 예정) 
