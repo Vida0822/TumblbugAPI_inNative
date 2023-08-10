@@ -314,8 +314,9 @@
 
 #### 7.2. 회원 정보 관리 - <a href="https://github.com/Vida0822/Tumblbug_JSP_Project/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Member)" >상세보기 - WIKI 이동</a>
 
-- 주소 API 연동
-- ID 중복 체크
+- 프로필 편집 : 프로필 편집, 계정정보 편집, 알림설정 변경
+- 편집창 띄우기 
+- 사진 업로드
 
 #### 7.3. 메인 페이지 - <a href="https://github.com/Vida0822/Tumblbug_JSP_Project/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%A9%94%EC%9D%B8-Page)" >상세보기 - WIKI 이동</a>
 
@@ -336,8 +337,11 @@
 
 #### 7.5. 후원하기 - <a href="https://github.com/Vida0822/Tumblbug_JSP_Project/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%ED%9B%84%EC%9B%90%ED%95%98%EA%B8%B0)" >상세보기 - WIKI 이동</a>
 
-- YouTube API 연동
-- 메인 포스터(영화) 이미지 슬라이드(CSS)
+- 후원 정보 조회
+- 결제수단 선택
+- 약관 동의
+- 유의사항 확인
+- 결제하기
 
 #### 7.6. 프로젝트 올리기  - <a href="https://github.com/Vida0822/Tumblbug_JSP_Project/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%98%AC%EB%A6%AC%EA%B8%B0)" >상세보기 - WIKI 이동</a> 
 
