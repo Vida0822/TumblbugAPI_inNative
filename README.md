@@ -5,6 +5,11 @@
 
 </br>
 
+### 💻 스프링 프레임워크로 컨벌팅
+
+[Tumblbug Spring-Security Project](https://github.com/Vida0822/Tumblbug_Spring-Security-Project)
+
+<br>
 
 
 ### 목차
@@ -302,6 +307,10 @@
 
 
 ## 7. 핵심 기능
+
+*직접 구현한 부분만 작성*
+<br><br>
+
 
 #### 7.1. 회원가입- <a href="https://github.com/Vida0822/Tumblbug_JSP_Project/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Join)" >상세보기 - WIKI 이동</a>
 
