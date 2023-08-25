@@ -18,9 +18,12 @@
 7. [핵심 기능 코딩](https://github.com/Vida0822/Tumblbug_JSP_Project#7-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EB%8A%A5)    <br>
 8. [프로젝트 회고](https://github.com/Vida0822/Tumblbug_JSP_Project#8-%ED%9A%8C%EA%B3%A0--%EB%8A%90%EB%82%80%EC%A0%90) <br>
 
-</br></br>
 
 *기능코딩은 직접 구현한 부분만 작성
+
+</br></br>
+
+
 
 
 
