@@ -5,9 +5,9 @@
 
 </br>
 
-### 💻 스프링 프레임워크로 컨벌팅
+### 💻 스프링으로 컨벌팅
 
-[Tumblbug Spring-Security Project](https://github.com/Vida0822/Tumblbug_Spring-Security-Project)
+[Tumblbug Spring Project](https://github.com/Vida0822/Tumblbug_Spring-Security-Project)
 
 <br>
 
