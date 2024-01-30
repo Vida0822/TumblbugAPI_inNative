@@ -1,4 +1,4 @@
-# :pushpin: Tumblbug JSP Project
+# :pushpin: 텀블벅 API 구현
 
 > 크라우드 펀딩 사이트 '텀블벅' - DispatcherServlet을 직접 제작한 모델 2방식(MVC) 웹사이트 구현
 
