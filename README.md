@@ -16,7 +16,7 @@
 
 1. [제작 기간 & 참여 인원](#1.-제작-기간-&-참여-인원)  <br>
 2. [사용 기술](#2.-사용-기술)  <br>
-3. [프로젝트 개요](#3.-프로젝트-개요) <br>
+3. [프로젝트 개요](https://github.com/Vida0822/Tumblbug_JSP_Project?tab=readme-ov-file#3-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EC%9A%94) <br>
 4. [요구분석 : User - Diagram 설계](https://github.com/Vida0822/Tumblbug_JSP_Project#4-%EC%9A%94%EA%B5%AC%EB%B6%84%EC%84%9D--user---diagram-%EC%84%A4%EA%B3%84) 
 5. [DB 모델링 : ERD / EXERD 설계](https://github.com/Vida0822/Tumblbug_JSP_Project#5-db-%EB%AA%A8%EB%8D%B8%EB%A7%81---erd--exerd-%EC%84%A4%EA%B3%84)    <br>
 6. [프로젝트 흐름도](https://github.com/Vida0822/Tumblbug_JSP_Project#6-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9D%90%EB%A6%84)  
