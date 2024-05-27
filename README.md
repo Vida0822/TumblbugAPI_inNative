@@ -20,7 +20,7 @@
 4. [요구분석 : User - Diagram 설계](https://github.com/Vida0822/Tumblbug_JSP_Project#4-%EC%9A%94%EA%B5%AC%EB%B6%84%EC%84%9D--user---diagram-%EC%84%A4%EA%B3%84) 
 5. [DB 모델링 : ERD / EXERD 설계](https://github.com/Vida0822/Tumblbug_JSP_Project#5-db-%EB%AA%A8%EB%8D%B8%EB%A7%81---erd--exerd-%EC%84%A4%EA%B3%84)    <br>
 6. [프로젝트 흐름도](https://github.com/Vida0822/Tumblbug_JSP_Project#6-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9D%90%EB%A6%84)  
-7. [핵심 기능 코딩](https://github.com/Vida0822/Tumblbug_JSP_Project#7-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EB%8A%A5) (*본인 담당 기능만 작성) <br>
+7. [핵심 기능 코딩](https://github.com/Vida0822/Tumblbug_JSP_Project#7-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EB%8A%A5) <br>
 8. [프로젝트 회고](https://github.com/Vida0822/Tumblbug_JSP_Project#8-%ED%9A%8C%EA%B3%A0--%EB%8A%90%EB%82%80%EC%A0%90) <br>
 
 
@@ -307,8 +307,6 @@
 
 
 ## 7. 담당한 핵심 기능
-
-*직접 구현한 부분만 작성*
 <br><br>
 
 
