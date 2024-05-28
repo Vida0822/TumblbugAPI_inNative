@@ -7,12 +7,13 @@ import project.model.ItemSet;
 
 public class GiftCard {
 	// 필드 
-	private Gift gift ; 
-	private int buyAmount ; 
-	private int leftAmount ; 
-	private int gift_min ; 
-	private String gift_desc ; 
-	private ArrayList<ItemSet> items ;
+	
+	private Gift gift ; /* 선물 정보 */
+	private int buyAmount ; /* 구매 수량 */
+	private int leftAmount ; /* 남은 수량 */ 
+	private int gift_min ; /* 최소 갯수 */ 
+	private String gift_desc ; /* 선물 설명 */ 
+	private ArrayList<ItemSet> items ; /* 포함된 구성품 */ 
 
 	// 생성자 
 	public GiftCard() {

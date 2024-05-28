@@ -6,6 +6,7 @@ import member.model.Member;
 public class ViewCreator {
 	
 	// 필드 
+	
 	private Member member ; /* 창작자(회원)이름 */ 
 	private File creatorPhoto ;  /* 창작자(회원)사진 */ 
 	private int lastSession ; /* 접속시간 */ 

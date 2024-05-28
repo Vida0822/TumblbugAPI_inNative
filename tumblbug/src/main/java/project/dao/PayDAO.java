@@ -126,7 +126,9 @@ public class PayDAO {
 		}
 		
 	}
-
+	
+	
+	/* 실제 후원에 필요 */ 
 	public Supporter selectSup(Connection conn, String mcd) throws SQLException {
 		Supporter supporter = null;
 		ResultSet rs = null;

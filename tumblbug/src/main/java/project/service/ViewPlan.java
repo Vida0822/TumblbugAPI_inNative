@@ -6,8 +6,9 @@ import project.model.Policy;
 public class ViewPlan {
 
 	// 필드 
-	private Plan projectPlan ; 
-	private Policy policy ;
+	
+	private Plan projectPlan ; /* 프로젝트 상세설명  */ 
+	private Policy policy ; /* 환불 정책 */
 	
 	
 	// 생성자 

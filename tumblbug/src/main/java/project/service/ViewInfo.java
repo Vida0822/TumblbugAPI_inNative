@@ -8,18 +8,17 @@ import project.model.DetailCategory;
 
 public class ViewInfo {
 	
-	// 필드 (링크 걸어야할 애들은 객체로: 코드 사용위함, 그냥 출력만 할 애들은 기본 자료형으로) 
-	private DetailCategory detailCategory ; 
-	private String pro_long ; 
-	private ArrayList<File> imageFiles ; 
-	private int paySum;
-	private int ach_rate ; 
-	private int left_days ; 
-	private int pro_sup ; 
-	private int pro_price ; 
-	private Date pro_start ; 
-	private Date pro_end  ; 
-	private Date pay_date  ;
+	private DetailCategory detailCategory ;  /* 세부 카테고리 */ 
+	private String pro_long ; /* 프로젝트 이름 */ 
+	private ArrayList<File> imageFiles ; /* 대표 이미지 */ 
+	private int paySum ;  /* 모인 금액 */ 
+	private int ach_rate ; /* 달성률 */ 
+	private int left_days ; /* 남은 기간 */
+	private int pro_sup ; /* 후원자 수 */
+	private int pro_price ; /* 펀딩 가격 */
+	private Date pro_start ; /* 펀딩 시작일 */
+	private Date pro_end  ; /* 펀딩 종료일 */
+	private Date pay_date  ; /* 결제일 */
 	
 	// 생성자 
 	public ViewInfo() {

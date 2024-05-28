@@ -1571,19 +1571,7 @@ data-styled.g2830[id="sc-keyframes-iXFgaZ"]{content:"iXFgaZ,"}/*!sc*/
 											</div>
 										</div>
 										
-										<script type="text/javascript">
-										$(function() {
-											$(".bNZRbd .RadioSelector__StyledRadioWrapper-ro36tx-4").removeClass("hxneea");
-											$(".bNZRbd .RadioSelector__StyledRadioWrapper-ro36tx-4").addClass("hsRXgn");
-											$(".bNZRbd .RadioSelector__StyledRadioWrapper-ro36tx-4 .iXpqWu").prop("checked", false);
-											
-											$(".RadioSelector__StyledRadioWrapper-ro36tx-4").eq(0).addClass("hxneea");
-											$(".RadioSelector__StyledRadioWrapper-ro36tx-4").eq(0).removeClass("hsRXgn");
-											$(".iXpqWu").eq(0).prop("checked", true);
-											
-											$(".fIAWNG").hide();
-										});
-										</script>
+										
 																				
 									</c:if>
 									
@@ -1608,8 +1596,8 @@ data-styled.g2830[id="sc-keyframes-iXFgaZ"]{content:"iXFgaZ,"}/*!sc*/
 												</div>
 											</div>
 										</div>
-										
 										<script type="text/javascript">
+										// ? 
 											$(function() {
 												$(".bNZRbd .RadioSelector__StyledRadioWrapper-ro36tx-4").removeClass("hxneea");
 												$(".bNZRbd .RadioSelector__StyledRadioWrapper-ro36tx-4").addClass("hsRXgn");
@@ -1756,6 +1744,8 @@ data-styled.g2830[id="sc-keyframes-iXFgaZ"]{content:"iXFgaZ,"}/*!sc*/
 	
 	<script type="text/javascript">
 		$(function() {
+			
+			// 약관 동의
 			$("#checkmark").hide();
 			$("#checkmark2").hide();
 			$("#checkmark3").hide();
@@ -1800,6 +1790,7 @@ data-styled.g2830[id="sc-keyframes-iXFgaZ"]{content:"iXFgaZ,"}/*!sc*/
 				}
 			});
 			
+			// 유의 사항 확인 
 			$(".gsJDUr").on("click", function() {
 				if ( $(this).find(".Icon__SVGICON-sc-1xkf9cp-0").hasClass("fgQmSB") ) {
 					$(".krpGan").hide();
@@ -1814,24 +1805,8 @@ data-styled.g2830[id="sc-keyframes-iXFgaZ"]{content:"iXFgaZ,"}/*!sc*/
 				}
 			});
 			
-			/* 
-			$(".fzVHyd .Input__InputWrapper-j7moqy-0").on("click", function() {
-				$("#payselect").toggle();
-				if ( $(this).hasClass("gojAHY") ) {
-					$(this).removeClass("gojAHY");
-					$(this).addClass("eGAzEd");
-				} else if ( $(this).hasClass("eGAzEd") ) {
-					$(this).addClass("gojAHY");
-					$(this).removeClass("eGAzEd");
-				}
-			});
-			
-			$("#payselect button").on("click", function() {
-				$(".fzVHyd .Input__InputWrapper-j7moqy-0 :text").val( $(this).val() != 0 ? $(this).val() + "개월" : "일시불" );
-				$("#payselect").hide();
-			});
-			*/
-			
+
+			// 결제수단 
 			$(".bNZRbd").on("click", function() {
 				$(".bNZRbd .RadioSelector__StyledRadioWrapper-ro36tx-4").removeClass("hxneea");
 				$(".bNZRbd .RadioSelector__StyledRadioWrapper-ro36tx-4").addClass("hsRXgn");

@@ -4970,11 +4970,12 @@ data-styled.g2829[id="sc-keyframes-iXFgaZ"]{content:"iXFgaZ,"}/*!sc*/
 		}
 	});
 </script>
+<!-- /HEAD -->
+<!--  BODY  -->
 			<div class="Discover__DiscoverWrapper-sc-16itaa3-0 djIxnq tbb">
 				<c:choose>
 				<c:when test="${not empty projectCardList}">
-				<div
-					class="Container-gci8y7-0 InfinityList__InfinityContainer-sc-19jay7c-0 cXaiVs dykamL">
+				<div class="Container-gci8y7-0 InfinityList__InfinityContainer-sc-19jay7c-0 cXaiVs dykamL">
 					<div class="InfinityList__ResultWrapper-sc-19jay7c-1 ffcngd">
 						<div class="InfinityList__ResultCounter-sc-19jay7c-2 dsEGnR">
 							<span>${projectCount}</span>개의 프로젝트가 있습니다.
@@ -5041,9 +5042,11 @@ data-styled.g2829[id="sc-keyframes-iXFgaZ"]{content:"iXFgaZ,"}/*!sc*/
 											<div class="ProjectCard__PercentageBar-opxl0a-11 kWayXM">
 												<div class="GaGeBaR sTaTuS${status.count}"></div>
 											</div>
+										
 											<script>
 												$(".sTaTuS${status.count}").css("width","${projectCard.ach_rate}%")
 											</script>
+											
 											</c:when>
 											<c:otherwise>
 											<div class="ProjectCard__StyledPrelaunchedInfo-opxl0a-0 hQetpI">
@@ -5121,7 +5124,7 @@ data-styled.g2829[id="sc-keyframes-iXFgaZ"]{content:"iXFgaZ,"}/*!sc*/
 		}); // pageGoPost
 	}); // click
 </script>
-
+<!-- /BODY  -->
 			<div class="style__FooterWrapper-sc-7of8vt-1 ijjmmk">
 				<div class="style__FooterLinkWrapper-sc-7of8vt-2 WtkWz">
 					<div class="style__FooterSitemapWrapper-sc-7of8vt-3 dUiGWV">

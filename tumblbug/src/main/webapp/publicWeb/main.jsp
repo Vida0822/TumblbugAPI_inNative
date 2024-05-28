@@ -4647,7 +4647,7 @@ data-styled.g2825[id="ScrollTop__ScrollTopBtn-j9uqn7-2"] {
 										<span style="margin: 0; padding: 0"
 											class="ProfileImg__StyledProfileImg-sc-1vio56c-0 gXKtKb"></span>
 									</div>
-									<div class="style__UserText-zxsodr-11 fXtfpK">탁인혁</div>
+									<div class="style__UserText-zxsodr-11 fXtfpK">${ authUser.m_name }</div>
 								</div>
 								<!-- 회원메뉴 -->
 								<div class="SNB__Wrapper-wpjnaw-1 VIJCO">
@@ -5148,22 +5148,6 @@ data-styled.g2825[id="ScrollTop__ScrollTopBtn-j9uqn7-2"] {
 		}); // pageGoPost
 	}); // click   
 </script>
-<!-- 
-<script>
-	$(".Idjxi").each(function(i, element) {
-		$(element).on("click",function(event) {
-			//      location.href = "/tumblbug/listProject.do?searchCondition=1&searchWord="+ $(this).text();
-			pageGoPost({
-				url : "/tumblbug/listProject.do", //이동할 페이지
-				target : "_self",
-				vals : [ //전달할 인수들
-				[ "searchCondition", 1 ],
-						[ "searchWord", $(this).text() ] ]
-			}); // pageGoPost
-		}); // click   
-	}); // foreach
-</script>
- -->
 		<div class="style__Container-sc-7of8vt-0 gmYOwM">
 			<div class="FrontPage__HomeWrapper-sc-1ev69zc-11 bIWUDq">
 				<div class="FrontPage__StyledMainTopSection-sc-1ev69zc-8 dBLJpo">

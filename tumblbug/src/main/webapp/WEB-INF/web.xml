@@ -73,6 +73,7 @@
    <filter-mapping>
       <filter-name>LoginCheckFilter</filter-name>
       <url-pattern>/makeProject.do</url-pattern>
+      <url-pattern>/pay.do</url-pattern>
    </filter-mapping>
 	
 </web-app>
