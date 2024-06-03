@@ -280,24 +280,46 @@
 
   
 
-### 6.4. Model(Service & DAO)
+### 6.4. Service 
 ![Service](https://github.com/Vida0822/Tumblbug_JSP_Project/assets/132312673/8d90a9de-ba7a-45bf-8497-27c42ea62091)
 </br>
 
-​	업무 처리 로직(비즈니스 로직) 혹은 데이터 베이스와 관련된 작업을 담당한다 
-
-* Service
+​	업무 처리 로직(비즈니스 로직) 혹은 데이터 베이스와 관련된 작업을 담당한다 <br>
 
   * 비즈니스 로직 수행: 로직 처리 후 view 페이지로 전달할 객체로 구성(생성)해서 반환
-  * 트랜잭션 처리 - commit , rollback 
+  * 트랜잭션 처리 - commit , rollback
+ 
+#### 6.5. DAO 
 
-* DAO 
+Connection 객체를 통해 Oracle Database와 연결하고 SQL문을 실행한다. 
+문자열 쿼리를 직접 작성해야 했는데 코드 전개가 복잡하고 오탈자 등 사소한 실수에 민감하여 가장 신중히 작업한 부분이다.  
 
-  * DB를 직접적으로 다룸 :  주로 dto 를 단위로 넘기고 넘겨받는다
 
-  * java의 jdbc 기능 사용 : SQL 및 DB연결, Java언어가 모두 존재하기때문에 재사용성이 좋지 않았다. 
+  * 드라이버 구동
+![1](https://github.com/Vida0822/TumblbugAPI_inNative/assets/132312673/cb889eb0-24f0-45d9-a81a-48efa211966c)
+<br>
+어플리케이션 실행 시 META-INF 아래 xml 파일을 읽어들이며 DB 관련 설정(DataSource). 
+이를 Container 전체에서 사용할 수 있도록 web.xml에서 참조.  
+<br> 
 
-    
+
+  * DB 연결
+![2](https://github.com/Vida0822/TumblbugAPI_inNative/assets/132312673/9ffa6100-9b85-4000-9a7f-51ded0f3ac0f)
+<br>
+메서드 호출 시 Context에 등록된 Datasource 참조하여 Singleton 방식으로 Connection 객체 반환.   
+객체는  Service 계층에서 트랜잭션이 시작될 때 생성해주고 Dao 계층으로 생성자 주입. 
+<br> 
+
+  * JDBC API 호출
+![3](https://github.com/Vida0822/TumblbugAPI_inNative/assets/132312673/70072aff-f19d-456e-875a-f385730d39a6)
+<br>
+1. Connection 객체에 문자열 쿼리 등록해  PreparedStatement 객체 반환
+2. setString() : 바인딩 매개변수 대입
+3. executeQuery()  : 쿼리를 실행해 ResultSet 객체로 결과값 반환
+4. 결과값을 Entity 객체로 변환
+5. Jdbc.Util 클래스를 정의하여 한 차례 예외 확인, 처리 후 연결 해제
+
+<br><br>
 
 </div>
 </details> 
