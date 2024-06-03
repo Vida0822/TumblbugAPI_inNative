@@ -300,9 +300,11 @@ Connection 객체를 통해 Oracle Database와 연결하고 SQL문을 실행한�
 ![1](https://github.com/Vida0822/TumblbugAPI_inNative/assets/132312673/cb889eb0-24f0-45d9-a81a-48efa211966c)
 <br>
   * 드라이버 구동 <br>
+  
 어플리케이션 실행 시 META-INF 아래 xml 파일을 읽어들이며 DB 관련 설정(DataSource). 
 이를 Container 전체에서 사용할 수 있도록 web.xml에서 참조.  
-<br> 
+
+<br><br> 
 
 
 
@@ -312,8 +314,8 @@ Connection 객체를 통해 Oracle Database와 연결하고 SQL문을 실행한�
 
 메서드 호출 시 Context에 등록된 Datasource 참조하여 Singleton 방식으로 Connection 객체 반환.   
 객체는  Service 계층에서 트랜잭션이 시작될 때 생성해주고 Dao 계층으로 생성자 주입. 
-<br> 
 
+<br><br> 
 
 ![3](https://github.com/Vida0822/TumblbugAPI_inNative/assets/132312673/70072aff-f19d-456e-875a-f385730d39a6)
 <br>
